@@ -1,5 +1,5 @@
  Hi, I’m Zehra 👋
-- 🛠 I am an electronic engineer who designs electronic boards and coding on STM.
+- 🛠 I am an electronic engineer who designs electronic cards and coding on STM.
 - 🏎️ I’m currently learning Altium-Kicad and C
 - 🎾 I’m interested in formula 1 and tennis.
 <!---
