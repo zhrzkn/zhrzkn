@@ -1,6 +1,9 @@
-### Hi there 👋, Zehra Özkan
-#### Hardware-Design Engineer
 ![Hardware-Design Engineer](https://github.com/zhrzkn/zhrzkn/blob/main/banner.png)
+
+
+
+### Hi there 👋, Zehra Özkan
+
 I'm an electronic engineer who designs electronic cards and coding. I really enjoy learning board design program like Altium and Ki-CAD. I'm currently learning language of C.
 
 ## Skills and Experience 
