@@ -21,5 +21,5 @@ I'm an electronic engineer who designs electronic cards and coding. I really enj
 
 
 
-//gif eklemek:
+
 
