@@ -15,7 +15,7 @@ I'm an electronic engineer who designs electronic cards and coding. I really enj
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zhrzkn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zehra-ozkan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18211441/zehra)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zhrzkn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zehra-ozkan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/electronics.stackexchange.svg' alt='electronics.stackexchange' height='40'>](https://electronics.stackexchange/users/307423/zehra)  
 
 
 
