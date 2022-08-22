@@ -18,3 +18,8 @@ I'm an electronic engineer who designs electronic cards and coding. I really enj
 
 
 [![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhrzkn)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+//gif eklemek:
+
