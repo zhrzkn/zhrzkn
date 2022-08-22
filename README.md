@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋, Zehra Özkan
+### Hi, I'm Zehra Özkan 👋
 
 I'm an electronic engineer who designs electronic cards and coding. I really enjoy learning board design program like Altium and Ki-CAD. I'm currently learning language of C.
 
