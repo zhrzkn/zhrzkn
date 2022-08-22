@@ -16,7 +16,7 @@ I'm an electronic engineer who designs electronic cards and coding. I really enj
 
 
 
-![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhrzkn&theme=dark&show_icons=true)
+![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhrzkn&theme=radical&show_icons=true)
 
 
 
