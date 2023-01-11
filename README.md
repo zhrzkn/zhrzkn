@@ -10,7 +10,7 @@ I'm an electronic engineer who designs electronic cards and coding. I really enj
 * 🔭 C
 * 🌟 Altium / KiCAD
 * ⚡STM32 / ARM Cortex  
-* 💥 RPi / FPGA
+* 💥 RPi 
  
 
 
